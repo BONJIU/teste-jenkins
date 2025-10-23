@@ -1,0 +1,13 @@
+{
+  "name": "teste-jenkins-ficticio",
+  "version": "1.0.0",
+  "description": "Projeto de teste para o pipeline do Jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Nenhum teste configurado\" && exit 0",
+    "lint": "echo \"Nenhum lint configurado\" && exit 0",
+    "build": "echo \"Nenhum build configurado\" && exit 0"
+  },
+  "author": "",
+  "license": "ISC"
+}
